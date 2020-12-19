@@ -45,7 +45,8 @@ a quick n dirty cheatsheet to french orthography
 
 ### Silent consonants
 If the word ends in a consonant, the consonant is often (but not always) silent or not pronounced as expected. (Loanwords are often obvious exceptions.)
-- **-s** and **-x** indicating plurals are silent. *E.g. le**s**, eau**x**, oiseau**x***
+- **-s** and **-x** indicating plurals are silent. *E.g. le**s**, eau**x**, oiseau**x**, au**x** ***
 - **-m** is often pronounced like **-n** when final. *E.g. fai**m***, parfu**m**
 - **-er** is sometimes pronounced with a silent "r" (more likly for verbs and adjectives) *E.g. all**er**, premi**er*** 
-- **-t** is frequently silent in the final position, especially as part of **-ent**. *E.g. ven**t**, tan**t***
+- **-t** and **-d** are frequently silent in the final position/ *E.g. ven**t**, tan**t**, lai**d**, pie**d***
+
