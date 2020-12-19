@@ -42,6 +42,8 @@ a quick n dirty cheatsheet to french orthography
 - **qu** is usually simply "k", not "kw" like English. *E.g. **qu**otidien*
 - **th** is pronounced like "t"
 - **h** is always silent
+- **s** is pronounced like "z" between vowels in the middle of a word. *E.g. bi**s**ou *
+- **ss** is pronounced like English "s". *E.g. régli**ss**e*
 
 ### Silent consonants
 If the word ends in a consonant, the consonant is often (but not always) silent or not pronounced as expected. (Loanwords are often obvious exceptions.)
@@ -49,6 +51,9 @@ If the word ends in a consonant, the consonant is often (but not always) silent 
 - **-m** is often pronounced like **-n** when final. *E.g. fai**m**, parfu**m***
 - **-er** is sometimes pronounced with a silent "r" (more likly for verbs and adjectives) *E.g. all**er**, premi**er*** 
 - **-t** and **-d** are frequently silent in the final position/ *E.g. ven**t**, tan**t**, lai**d**, pie**d***
+
+## Stress
+Generally the last syllable is stressed.
 
 ## Apostrophes
 - they don't do anything for pronunciation just pretend they're not there
