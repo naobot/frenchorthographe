@@ -37,10 +37,11 @@ a quick n dirty cheatsheet to french orthography
 
 ### Unintuitive consonants
 - **ill** is pronounced like regular French "i" following by a "y" sound. *E.g. b**ill**et, maqu**ill**age*
-- **ge** is soft like French "j". *E.g. **gé**nial, maquilla**ge***
+- **ge** and **gi** are soft like French "j". *E.g. **gé**nial, maquilla**ge**, **Gi**venchy*
 - **gu** is hard like English "g". *E.g. **gu**erre, va**gu**e*
 - **qu** is usually simply "k", not "kw" like English. *E.g. **qu**otidien*
-- **th** is pronounced like "t"
+- **th** is pronounced like "t" *E.g. **th**é*
+- **ch** is pronounced "sh" (**tch** is pronounced "ch" but usually comes up in loanwords) *E.g. **ch**ocolat, **ch**at*
 - **h** is always silent
 - **s** is pronounced like "z" between vowels in the middle of a word. *E.g. bi**s**ou *
 - **ss** is pronounced like English "s". *E.g. régli**ss**e*
