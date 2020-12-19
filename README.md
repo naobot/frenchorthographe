@@ -50,3 +50,5 @@ If the word ends in a consonant, the consonant is often (but not always) silent 
 - **-er** is sometimes pronounced with a silent "r" (more likly for verbs and adjectives) *E.g. all**er**, premi**er*** 
 - **-t** and **-d** are frequently silent in the final position/ *E.g. ven**t**, tan**t**, lai**d**, pie**d***
 
+### Apostrophes
+- they don't do anything for pronunciation just pretend they're not there
