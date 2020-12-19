@@ -48,4 +48,4 @@ If the word ends in a consonant, the consonant is often (but not always) silent 
 - **-s** and **-x** indicating plurals are silent. *E.g. le**s**, eau**x**, oiseau**x***
 - **-m** is often pronounced like **-n** when final. *E.g. fai**m***, parfu**m**
 - **-er** is sometimes pronounced with a silent "r" (more likly for verbs and adjectives) *E.g. all**er**, premi**er*** 
-
+- **-t** is frequently silent in the final position, especially as part of **-ent**. *E.g. ven**t**, tan**t***
