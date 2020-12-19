@@ -22,7 +22,7 @@ a quick n dirty cheatsheet to french orthography
 | eu        | /ø/, /œ/ | EN: **u** as in p**u**t | p**eu**, b**eu**rre, d**eu**x  |  |
 | i, y         | /i/    | EN: **ea** as in **ea**t, ZH: **yi**  | pet**i**t, c**y**clone  |    |
 | œ         | /œ/, 	/ø/     | ZH: **eu** in ch**eu**ng as in 'long' in Cantonese.. |  **œ**il, s**œu**r, **œ**uf | don't worry if you can't differentiate this from "eu" |
-| oi, oie, oî     |  /wa/     |   ZH: **ua** as in h**ua**  | **oi**seau, m**oi**, cr**oi**x |   |
+| oi, oie, oî     |  /wa/     |   ZH: **ua** as in h**ua**  | **oi**seau, m**oi**, cr**oi**x, bes**oi**n |   |
 | ou, oue, où, oû    | /u/ |    ZH: **wu**   |     t**ou**t, c**ou**ture, a**oû**t   | |
 |  oy       |  /waj/ |  EN: **wah** followed by a **y** sound leading to the next vowel | m**oy**en  | so moyen is pronounced like "mwah-yen" NOT "moh-yen". if you forget you can pronounce like how you would normally read "oy" in english. |
 | u, û, üe       | /y/ | ZH: **v** as in n**v** (woman) |  t**u**, b**u**t, fl**û**te | technically different from "ou" but it's ok if you can't differentiate them |
@@ -37,7 +37,6 @@ a quick n dirty cheatsheet to french orthography
 
 ### Unintuitive consonants
 - **ill** is pronounced like regular French "i" following by a "y" sound. *E.g. b**ill**et, maqu**ill**age*
-- **oin** is pronounced like "wen"" *E.g. bes**oi**n*
 - **ge** is soft like French "j". *E.g. **gé**nial, maquilla**ge***
 - **gu** is hard like English "g". *E.g. **gu**erre, va**gu**e*
 - **qu** is usually simply "k", not "kw" like English. *E.g. **qu**otidien*
